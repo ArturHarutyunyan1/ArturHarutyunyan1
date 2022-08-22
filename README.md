@@ -6,7 +6,7 @@ I am a self-taught web developer. I enjoy creating things that live on the web, 
 
 ##
 ## Education
-<a href="https://tumo.org">Tumo Center for Creative Technologies</a>
+<a href="https://tumo.org">Tumo Center for Creative Technologies</a> <br>
 2017-2022
 
 ##
