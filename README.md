@@ -2,3 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturharutyunyan1&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=arturharutyunyan1&hide_border=true)](https://git.io/streak-stats)
